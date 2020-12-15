@@ -1,0 +1,21 @@
+{
+    "name": "adibe",
+    "displayName": "adibe",
+    "description": "adibe theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "adibe",
+                "uiTheme": "vs-dark",
+                "path": "./themes/adibe-color-theme.json"
+            }
+        ]
+    }
+}
